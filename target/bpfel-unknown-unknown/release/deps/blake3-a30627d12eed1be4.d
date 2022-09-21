@@ -1,0 +1,12 @@
+/Users/zazza/Coding/crowdfunding/target/bpfel-unknown-unknown/release/deps/blake3-a30627d12eed1be4.rmeta: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/Users/zazza/Coding/crowdfunding/target/bpfel-unknown-unknown/release/deps/libblake3-a30627d12eed1be4.rlib: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/Users/zazza/Coding/crowdfunding/target/bpfel-unknown-unknown/release/deps/blake3-a30627d12eed1be4.d: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs:

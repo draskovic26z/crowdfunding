@@ -1,0 +1,8 @@
+
+.navbarContainer__walletContainer {
+    display: flex;
+    justify-content: center;
+    position: static;
+    width: auto;
+    padding: 0;
+}

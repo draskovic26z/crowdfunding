@@ -1,0 +1,12 @@
+/Users/zazza/Coding/crowdfunding/target/debug/deps/libthiserror_impl-fbf0af0d30074fc7.dylib: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs
+
+/Users/zazza/Coding/crowdfunding/target/debug/deps/thiserror_impl-fbf0af0d30074fc7.d: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs
+
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs:

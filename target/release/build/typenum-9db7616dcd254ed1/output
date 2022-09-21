@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/zazza/Coding/crowdfunding/target/release/build/typenum-9db7616dcd254ed1/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/zazza/Coding/crowdfunding/target/release/build/typenum-9db7616dcd254ed1/out/op.rs

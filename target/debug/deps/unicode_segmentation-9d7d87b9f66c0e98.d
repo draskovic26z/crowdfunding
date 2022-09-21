@@ -1,0 +1,11 @@
+/Users/zazza/Coding/crowdfunding/target/debug/deps/unicode_segmentation-9d7d87b9f66c0e98.rmeta: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/grapheme.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/sentence.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/word.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/tables.rs
+
+/Users/zazza/Coding/crowdfunding/target/debug/deps/libunicode_segmentation-9d7d87b9f66c0e98.rlib: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/grapheme.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/sentence.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/word.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/tables.rs
+
+/Users/zazza/Coding/crowdfunding/target/debug/deps/unicode_segmentation-9d7d87b9f66c0e98.d: /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/lib.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/grapheme.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/sentence.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/word.rs /Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/tables.rs
+
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/lib.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/grapheme.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/sentence.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/word.rs:
+/Users/zazza/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.0/src/tables.rs:
